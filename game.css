@@ -5,6 +5,7 @@ body{
   min-height: 100vh;
   overflow-x: hidden;
   scroll-behavior: smooth;
+  background-color: beige;
 }
 
 main{
@@ -12,3 +13,7 @@ main{
   flex-grow: 1;
 }
 
+img {
+max-width: 200px;
+height: auto;
+}
