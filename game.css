@@ -1,0 +1,14 @@
+
+body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+main{
+  position: relative;
+  flex-grow: 1;
+}
+
